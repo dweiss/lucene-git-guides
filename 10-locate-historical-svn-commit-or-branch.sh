@@ -24,11 +24,11 @@ git tag | grep "history/branches/"
 git log --grep="@1411748" --all
 
 # which displays:
-
-commit 6158e58e89a718ce5442331ea9a34394e8914ed6
-Author: Alan Woodward <romseygeek@apache.org>
-Date:   Tue Nov 20 17:03:33 2012 +0000
-
-    LUCENE-2878: Add more tests for Brouwerian Query + fixes
-
-    git-svn-id: https://svn.apache.org/repos/asf/lucene/dev/branches/LUCENE-2878@1411748 13f79535-47bb-0310-9956-ffa450edef68
+#
+# commit 6158e58e89a718ce5442331ea9a34394e8914ed6
+# Author: Alan Woodward <romseygeek@apache.org>
+# Date:   Tue Nov 20 17:03:33 2012 +0000
+#
+#     LUCENE-2878: Add more tests for Brouwerian Query + fixes
+#
+#     git-svn-id: https://svn.apache.org/repos/asf/lucene/dev/branches/LUCENE-2878@1411748 13f79535-47bb-0310-9956-ffa450edef68
